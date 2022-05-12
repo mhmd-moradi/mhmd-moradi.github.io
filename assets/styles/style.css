@@ -5,17 +5,17 @@ body{
 }
 
 #container{
-    width: 100%;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
+    flex-wrap: wrap;
 }
 
 #contact{
-    width: 30%;
+    width: 400px;
+    height: 100vh;
     border-right: 1px solid gray;
     font-size: 14px;
-    height: 100vh;
     background-color: #F0F0F0;
     display: flex;
     flex-direction: column;
@@ -58,7 +58,10 @@ body{
 }
 
 #info{
-    width: 70%;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 #info-container{
@@ -75,4 +78,3 @@ body{
     width: 100%;
     text-align: left;
 }
-
