@@ -27,6 +27,11 @@ body{
     margin-top: 70px;
 }
 
+#profile-photo{
+    display: flex;
+    justify-content: center;
+}
+
 #contact-details{
     width: 75%;
     margin: 30px auto;
