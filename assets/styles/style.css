@@ -32,6 +32,11 @@ body{
     justify-content: center;
 }
 
+#profile-photo{
+    display: flex;
+    justify-content: center;
+}
+
 #info{
     width: 70%;
 }
