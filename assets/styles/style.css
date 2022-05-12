@@ -22,6 +22,16 @@ body{
     align-items: center;
 }
 
+#contact-container{
+    width: 80%;
+    margin-top: 70px;
+}
+
+#profile-photo{
+    display: flex;
+    justify-content: center;
+}
+
 #info{
     width: 70%;
 }
