@@ -32,6 +32,12 @@ body{
     justify-content: center;
 }
 
+#pp{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
 #contact-details{
     width: 75%;
     margin: 30px auto;
@@ -48,16 +54,6 @@ body{
 #contact-details h4 span a{
     text-decoration: none;
     color: gray;
-}
-
-#profile-photo{
-    display: flex;
-    justify-content: center;
-}
-
-#profile-photo{
-    display: flex;
-    justify-content: center;
 }
 
 #info{
