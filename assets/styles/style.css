@@ -63,3 +63,13 @@ body{
     width: 90%;
     margin: 70px auto;
 }
+
+#info-container div{
+    margin-bottom: 70px;
+}
+
+#education table{
+    table-layout: auto;
+    width: 100%;
+    text-align: left;
+}
