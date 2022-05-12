@@ -9,7 +9,6 @@ body{
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    flex-wrap: wrap;
 }
 
 #contact{
@@ -50,6 +49,7 @@ body{
 #contact-details h4 span{
     margin-left: 10px;
     color: gray;
+    word-wrap: break-word;
 }
 
 #contact-details h4 span a{
